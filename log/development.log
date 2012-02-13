@@ -1,0 +1,373 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at Sun Feb 12 07:17:47 -0500 2012
+Served asset /rails.png - 200 OK (6ms)
+
+
+Started GET "/rails/info/properties" for 127.0.0.1 at Sun Feb 12 07:17:52 -0500 2012
+Processing by Rails::InfoController#properties as */*
+  Rendered inline template (13.5ms)
+Completed 200 OK in 42ms (Views: 28.3ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at Sun Feb 12 07:18:14 -0500 2012
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (1.3ms)
+Compiled blueprint/screen.css  (1ms)  (pid 20912)
+Compiled blueprint/print.css  (0ms)  (pid 20912)
+Compiled blueprint/ie.css  (0ms)  (pid 20912)
+Compiled custom.css  (0ms)  (pid 20912)
+  Rendered layouts/_stylesheets.html.erb (74.0ms)
+  Rendered layouts/_header.html.erb (2.1ms)
+  Rendered layouts/_footer.html.erb (1.7ms)
+Completed 200 OK in 98ms (Views: 96.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:18:14 -0500 2012
+Served asset /blueprint/screen.css - 200 OK (4ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:18:14 -0500 2012
+Served asset /custom.css - 200 OK (3ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:18:14 -0500 2012
+Served asset /logo.png - 200 OK (82ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:18:14 -0500 2012
+Served asset /blueprint/print.css - 200 OK (3ms)
+
+
+Started GET "/signup" for 127.0.0.1 at Sun Feb 12 07:18:54 -0500 2012
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_stylesheets.html.erb (2.2ms)
+  Rendered layouts/_header.html.erb (1.4ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 13ms (Views: 11.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at Sun Feb 12 07:19:00 -0500 2012
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_stylesheets.html.erb (2.4ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 12ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:19:00 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:19:00 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:19:00 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:19:00 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/help" for 127.0.0.1 at Sun Feb 12 07:19:02 -0500 2012
+Processing by PagesController#help as HTML
+  Rendered pages/help.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_stylesheets.html.erb (2.6ms)
+  Rendered layouts/_header.html.erb (2.5ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:19:02 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:19:02 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:19:02 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:19:02 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at Sun Feb 12 07:19:03 -0500 2012
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_stylesheets.html.erb (2.3ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:19:03 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:19:03 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:19:03 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:19:03 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Feb 12 07:20:04 -0500 2012
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (2.8ms)
+  Rendered layouts/_stylesheets.html.erb (25.2ms)
+  Rendered layouts/_header.html.erb (2.3ms)
+  Rendered layouts/_footer.html.erb (1.5ms)
+Completed 200 OK in 106ms (Views: 105.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:05 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:20:05 -0500 2012
+Served asset /logo.png - 304 Not Modified (2ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:05 -0500 2012
+Served asset /custom.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:05 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (5ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Feb 12 07:20:10 -0500 2012
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_stylesheets.html.erb (2.5ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 12ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:10 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:10 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:20:10 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:10 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/help" for 127.0.0.1 at Sun Feb 12 07:20:11 -0500 2012
+Processing by PagesController#help as HTML
+  Rendered pages/help.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_stylesheets.html.erb (2.2ms)
+  Rendered layouts/_header.html.erb (1.4ms)
+  Rendered layouts/_footer.html.erb (0.8ms)
+Completed 200 OK in 12ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:11 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:20:11 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:11 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:11 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at Sun Feb 12 07:20:12 -0500 2012
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_stylesheets.html.erb (2.5ms)
+  Rendered layouts/_header.html.erb (1.5ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 12ms (Views: 11.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:12 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:12 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:20:12 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:12 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/about" for 127.0.0.1 at Sun Feb 12 07:20:14 -0500 2012
+Processing by PagesController#about as HTML
+  Rendered pages/about.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_stylesheets.html.erb (4.0ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 14ms (Views: 13.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:14 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:14 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:20:14 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:14 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/contact" for 127.0.0.1 at Sun Feb 12 07:20:15 -0500 2012
+Processing by PagesController#contact as HTML
+  Rendered pages/contact.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_stylesheets.html.erb (2.6ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 13ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:15 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:15 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:20:15 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:15 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Sun Feb 12 07:20:18 -0500 2012
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (0.5ms)
+  Rendered layouts/_stylesheets.html.erb (2.2ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_footer.html.erb (0.9ms)
+Completed 200 OK in 11ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:18 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:18 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:20:18 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:18 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/signup" for 127.0.0.1 at Sun Feb 12 07:20:19 -0500 2012
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.1ms)
+  Rendered layouts/_stylesheets.html.erb (2.4ms)
+  Rendered layouts/_header.html.erb (1.3ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 12ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:19 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:19 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Sun Feb 12 07:20:19 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Sun Feb 12 07:20:19 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at Mon Feb 13 15:18:48 -0500 2012
+Processing by PagesController#home as HTML
+  Rendered pages/home.html.erb within layouts/application (3.2ms)
+  Rendered layouts/_stylesheets.html.erb (32.9ms)
+  Rendered layouts/_header.html.erb (1.9ms)
+  Rendered layouts/_footer.html.erb (5.7ms)
+Completed 200 OK in 153ms (Views: 152.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Mon Feb 13 15:18:48 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (5ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Mon Feb 13 15:18:48 -0500 2012
+Served asset /custom.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Mon Feb 13 15:18:48 -0500 2012
+Served asset /logo.png - 304 Not Modified (2ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Mon Feb 13 15:18:48 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (3ms)
+
+
+Started GET "/signup" for 127.0.0.1 at Mon Feb 13 15:18:49 -0500 2012
+Processing by UsersController#new as HTML
+  Rendered users/new.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_stylesheets.html.erb (2.5ms)
+  Rendered layouts/_header.html.erb (1.4ms)
+  Rendered layouts/_footer.html.erb (0.7ms)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/logo.png" for 127.0.0.1 at Mon Feb 13 15:18:50 -0500 2012
+Served asset /logo.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/custom.css?body=1" for 127.0.0.1 at Mon Feb 13 15:18:50 -0500 2012
+Served asset /custom.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/screen.css?body=1" for 127.0.0.1 at Mon Feb 13 15:18:50 -0500 2012
+Served asset /blueprint/screen.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/blueprint/print.css?body=1" for 127.0.0.1 at Mon Feb 13 15:18:50 -0500 2012
+Served asset /blueprint/print.css - 304 Not Modified (0ms)
